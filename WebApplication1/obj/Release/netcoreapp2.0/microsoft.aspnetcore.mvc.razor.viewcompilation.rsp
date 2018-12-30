@@ -1,0 +1,15 @@
+C:\Users\DevlinPC\source\repos\WebApplication1\WebApplication1
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=WebApplication1
+--content-root=C:\Users\DevlinPC\source\repos\WebApplication1\WebApplication1
+--file=C:\Users\DevlinPC\source\repos\WebApplication1\WebApplication1\Pages\About.cshtml
+--file=C:\Users\DevlinPC\source\repos\WebApplication1\WebApplication1\Pages\Banking.cshtml
+--file=C:\Users\DevlinPC\source\repos\WebApplication1\WebApplication1\Pages\Contact.cshtml
+--file=C:\Users\DevlinPC\source\repos\WebApplication1\WebApplication1\Pages\Error.cshtml
+--file=C:\Users\DevlinPC\source\repos\WebApplication1\WebApplication1\Pages\Index.cshtml
+--file=C:\Users\DevlinPC\source\repos\WebApplication1\WebApplication1\Pages\Schedule.cshtml
+--file=C:\Users\DevlinPC\source\repos\WebApplication1\WebApplication1\Pages\Snowball.cshtml
+--file=C:\Users\DevlinPC\source\repos\WebApplication1\WebApplication1\Pages\_Layout.cshtml
+--file=C:\Users\DevlinPC\source\repos\WebApplication1\WebApplication1\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\DevlinPC\source\repos\WebApplication1\WebApplication1\Pages\_ViewImports.cshtml
+--file=C:\Users\DevlinPC\source\repos\WebApplication1\WebApplication1\Pages\_ViewStart.cshtml
